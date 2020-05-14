@@ -12,3 +12,7 @@ attempt at scraping data from hashtag #100daysofcode on twitter.
 3. `git commit -m "commit message"` - This will save all the changes you've asked git to track (using `add`) in your `local` repository. The commit message is basically a brief explanation of your commit.
 
 4. `git pull` - This will get any changes that have been made to the github repository, or the `remote` repository.
+
+5. `git push origin master` - This isn't exactly the root form of this command. It's more `git push <remote> <branch>`. It pushes the `branch`, which is master, to our `remote`, which is origin.
+
+Great resource for git: https://www.atlassian.com/git/tutorials
